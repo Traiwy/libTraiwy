@@ -1,0 +1,4 @@
+name: libTraiwy
+version: '1.0-SNAPSHOT'
+main: traiwy.libTraiwy.LibTraiwy
+api-version: '1.20'
